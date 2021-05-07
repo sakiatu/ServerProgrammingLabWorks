@@ -5,3 +5,5 @@ const hello = ()=>{
 module.exports = {hello}
 
 module.exports.name = 'sakibbai'
+
+console.log(module.exports)
