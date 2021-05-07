@@ -1,3 +1,3 @@
-const serverObj = require('./http-module')
+const server=require('./output');
 
-serverObj.server.listen(2120)
+server.server.listen(2120);
